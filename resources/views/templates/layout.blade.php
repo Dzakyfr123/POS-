@@ -122,7 +122,7 @@
             <li class="nav-item dropdown user-menu">
               <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">
                 <img
-                  src="{{ asset('assets/img/Arkan.jpg') }}"
+                  src="{{ asset('assets/img/Dzaky.jpg') }}"
                   class="user-image rounded-circle shadow"
                   alt="User Image"
                 />
@@ -132,12 +132,12 @@
                 <!--begin::User Image-->
                 <li class="user-header text-bg-primary">
                   <img
-                    src="{{ asset('assets/img/Arkan.jpg') }}"
+                    src="{{ asset('assets/img/Dzaky.jpg') }}"
                     class="rounded-circle shadow"
                     alt="User Image"
                   />
                   <p>
-                    Arkan Nugraha - Web Developer
+                    Dzaky Fadhilah Rahmawan 
                     <small>Creator in 2025</small>
                   </p>
                 </li>
